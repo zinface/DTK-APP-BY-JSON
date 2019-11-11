@@ -1,0 +1,13 @@
+{
+    "ApplicationName": "应用名称",
+    "ApplicationVersion": "1.0.0",
+    "ProductIcon": "",
+    "ProductName": "项目名称",
+    "OrganizationName": "deepin",
+    "ApplicationAcknowledgementPage": "https://github.com/zinface",
+    "AppliationDescription":"此程序无任何简介",
+    "MainWindowProperties": {
+        "defaultWidth": 800,
+        "defaultHeight": 600
+    }
+} 
